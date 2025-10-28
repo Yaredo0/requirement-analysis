@@ -84,4 +84,16 @@ Non-functional requirements specify the quality attributes of the system. These 
 
 These requirements together ensure that the booking management system is both functional and robust, delivering a seamless experience to users and administrators alike.
 
+## Use Case Diagrams
+
+Use Case Diagrams are a visual modeling tool used in requirement analysis to represent the interactions between users (actors) and the system. They help identify system functionalities, clarify user roles, and provide a high-level overview of how users engage with the software.
+
+### Benefits of Use Case Diagrams
+- **Clarify Functional Scope**: They outline what the system should do from the user's perspective.
+- **Enhance Communication**: Serve as a common language between stakeholders and developers.
+- **Support Design Decisions**: Help in identifying modules and interfaces during system design.
+
+### Booking Management System Use Case Diagram
+
+![Use Case Diagram for Booking System](alx-booking-uc.png)
 
