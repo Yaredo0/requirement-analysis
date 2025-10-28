@@ -56,5 +56,32 @@ Requirement Analysis involves several structured activities that ensure a clear 
 
 These activities collectively ensure that the software solution is built on a solid foundation of well-understood and agreed-upon requirements.
 
+## Types of Requirements
+
+In software development, requirements are broadly categorized into Functional and Non-functional types. Understanding both is essential for building a system that not only performs the intended tasks but also meets quality standards and user expectations.
+
+### Functional Requirements
+
+Functional requirements define the specific behaviors, features, and functions a system must perform. They describe what the system should do in response to user inputs or interactions.
+
+**Examples for a Booking Management Project:**
+- Users must be able to create, view, update, and cancel bookings.
+- The system should allow filtering bookings by date, customer name, or service type.
+- Administrators should receive notifications for new bookings and cancellations.
+- The system must validate user input during booking creation (e.g., date format, required fields).
+- Customers should receive confirmation emails upon successful booking.
+
+### Non-functional Requirements
+
+Non-functional requirements specify the quality attributes of the system. These include performance, usability, reliability, and other operational characteristics that affect the user experience and system efficiency.
+
+**Examples for a Booking Management Project:**
+- The system should respond to booking requests within 2 seconds.
+- It must support up to 10,000 concurrent users without performance degradation.
+- The application should be accessible on both desktop and mobile devices.
+- Data must be encrypted during transmission to ensure security.
+- The system should maintain 99.9% uptime and provide automated daily backups.
+
+These requirements together ensure that the booking management system is both functional and robust, delivering a seamless experience to users and administrators alike.
 
 
