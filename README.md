@@ -97,3 +97,28 @@ Use Case Diagrams are a visual modeling tool used in requirement analysis to rep
 
 ![Use Case Diagram for Booking System](alx-booking-uc.png)
 
+## Acceptance Criteria
+
+Acceptance Criteria are predefined conditions that a software feature must meet to be considered complete and acceptable by stakeholders. They serve as a bridge between requirements and testing, ensuring that development aligns with business expectations and user needs.
+
+### Importance in Requirement Analysis
+
+- **Clarifies Expectations**: Acceptance criteria define what success looks like for a feature, reducing ambiguity and misinterpretation.
+- **Guides Development**: They help developers understand the scope and boundaries of a feature, leading to more focused implementation.
+- **Supports Testing**: Criteria act as a basis for writing test cases and validating functionality.
+- **Facilitates Communication**: They provide a shared understanding between stakeholders, designers, developers, and testers.
+
+### Example: Checkout Feature in Booking Management System
+
+**Feature**: Checkout Process
+
+**Acceptance Criteria**:
+- The user must be able to review booking details before confirming.
+- The system must validate payment information before processing.
+- A confirmation message must be displayed upon successful checkout.
+- The system must send a confirmation email to the user within 1 minute of checkout.
+- If payment fails, the user must be notified with a clear error message and given the option to retry.
+
+These criteria ensure that the checkout feature delivers a smooth, secure, and user-friendly experience, aligned with both functional and non-functional requirements.
+
+
